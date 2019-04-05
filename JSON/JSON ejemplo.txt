@@ -1,0 +1,19 @@
+{
+  "nombre": "Misael",
+  
+"apellido": "Pecorari",
+  
+"legajo": 71130,
+  
+"carrera": "Ingenieria en Sistemas de Información",
+  
+"notas finales": [
+    
+{"materia":"DSI", "nota": 9, "fecha": "22/03/19"},
+    
+{"materia":"GDA", "nota": 10, "fecha": "19/09/18"},
+    
+{"materia":"COM", "nota": 7, "fecha": "02/02/17"}
+  ]
+
+}
