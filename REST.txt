@@ -1,7 +1,0 @@
-Ejemplos de URI bien formada
-https://ofertas.mercadolibre.com.ar/ofertas-de-la-semana#nav-header
-https://www.nike.com/ar/es_la/c/football
-
-Ejemplos de URI mal formada
-https://www.frc.utn.edu.ar/academico3/ver.frc -> Tiene el verbo Ver
-https://transparencia.unlar.edu.ar/index.php -> Extension php
