@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+
+<channel>
+
+<title> Show Room PlayStation </title>
+
+<link>http://localhost:8080/RSS/Pecorari.html</link>
+
+<description>Muestra el contenido del sitio oficial de PlayStation</description>
+
+
+<item>
+<title> Consola PS4 </title>
+<link>https://www.playstation.com/es-ar/explore/ps4/</link>
+<description>En este documento se incluyen las caracteristicas de la consola PS4 </description>
+</item>
+
+<item>
+<title> Juegos PS4 </title>
+<link>https://www.playstation.com/es-ar/explore/gamefinder/</link>
+<description>Aquí se muestran los juegos disponibles para compra online en la plataforma</description>
+</item>
+
+<item>
+<title> Accesorios PS4 </title>
+<link>https://www.playstation.com/es-ar/explore/accessories/</link>
+<description>Se muesta informacion de los accessorios disponibles para adquirir con la consola</description>
+</item>
+
+</channel>
+</rss>
+
